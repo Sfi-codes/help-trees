@@ -9,7 +9,7 @@
 </ul>
 <h2>Setting up environment</h2>
 <ul>
-  <li>Install Java and setup development dependancies</li>
+  <li>Install Android studio</li>
   <li>git clone project</li>
   <li>Import project into android studio</li>
   <li>Build and run project</li>
