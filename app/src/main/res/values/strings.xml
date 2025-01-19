@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">IndividualProject</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Trees</string>
+    <string name="title_notifications">Impact</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="Login">Login</string>
+    <string name="register">Register</string>
+    <string name="helptrees_logo">HelpTrees logo</string>
+    <string name="developed_by">Developed by Qays Shah</string>
+    <string name="title_activity_default">DefaultActivity</string>
+    <!-- Strings used for fragments for navigation -->
+
+    <string name="helptrees">HelpTrees</string>
+    <string name="help_trees_info">An app for coordinating volunteers to grow and plant trees</string>
+    <string name="welcome">Welcome to HelpTrees</string>
+    <string name="title_activity_settings">SettingsActivity</string>
+    <string name="submit">Submit</string>
+    <string name="username">Username</string>
+    <string name="enter_username">Enter Username</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="title_activity_planted_trees">PlantedTreesActivity</string>
+</resources>
